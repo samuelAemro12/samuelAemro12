@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Samuel Aemro</h1>
+<h1 align="center">Hello, I'm Samuel Aemro </h1>
 <h3 align="center">A developer Based in Ethiopia</h3>
 <img align="right" alt="coding-image" width="100%" src="https://www.paliscope.com/wp-content/uploads/2018/04/Gif-animation-hello.gif">
 
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **RESTFUL APIs**
 
-- 💬 Ask me about **React, JavaScript, Bootstrap, npm**
+- 💬 Ask me about **React, JavaScript, npm**
 
 - 📫 How to reach me **samuealaemrowork12@gmail.com**
 
