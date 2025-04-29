@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Aemro</h1>
 <h3 align="center">A developer Based in Ethiopia</h3>
-<img align="right" alt="coding-image" width="100%" src="https://www.paliscope.com/wp-content/uploads/2018/04/Gif-animation-hello.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelaemro12&label=Profile%20views&color=0e75b6&style=flat" alt="samuelaemro12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuelaemro12" alt="samuelaemro12" /></a> </p>
