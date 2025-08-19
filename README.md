@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Amazon Clone](https://github.com/samuelAemro12/amazon-clone)
 
-- 🌱 I’m currently learning **ER* Systems**
+- 🌱 I’m currently learning **ERP Systems**
 
 - 👯 I’m looking to collaborate on **RESTFUL APIs**
 
