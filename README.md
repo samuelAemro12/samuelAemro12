@@ -1,4 +1,4 @@
-#Hey, I'm Samuel
+# Hey, I'm Samuel
 I am currently working on React native mobile Apps<br>and Desktop Apps alongside fullstack WebApps
 
 
