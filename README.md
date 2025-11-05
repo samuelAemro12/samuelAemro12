@@ -1,4 +1,4 @@
-# 💫 About Me:
+#Hey, I'm Samuel
 I am currently working on React native mobile Apps<br>and Desktop Apps alongside fullstack WebApps
 
 
