@@ -21,3 +21,4 @@ I build stuff
 - ⚡ Fun fact: Besides Coding, yall can ask me about weight lifting, they might not be accurate but i will answer to the best of my knowledge 😂
 
 ---
+[![Top Langs](https://vercel.app)](https://github.com)
